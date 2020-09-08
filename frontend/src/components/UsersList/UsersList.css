@@ -1,0 +1,6 @@
+.users-list{
+    border-radius: 10px;
+    background-color: rgb(216, 212, 212);
+    padding: 2%;
+    height: fit-content;
+}
